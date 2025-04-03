@@ -1,5 +1,5 @@
 # Simple `git` and `bats` demo <!-- omit in toc -->
-
+#2nd edit to the README file
 [![Bats tests](../../workflows/Bats%20tests/badge.svg)](../../actions?query=workflow%3A%22Bats+tests%22)
 [![Shellcheck](../../workflows/shellcheck/badge.svg)](../../actions?query=workflow%3Ashellcheck)
 (The `shellcheck` badge should be passing when you "fork" this repo, but
