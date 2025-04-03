@@ -842,3 +842,4 @@ using the Bats testing tool for `bash`. We've learned quite a few things:
 * How to use `echo` to "write" to the terminal
 
 Thanks for playing along!
+#This is a comment to this forked repository which is cloned in my local machine
